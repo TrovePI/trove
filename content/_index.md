@@ -4,12 +4,12 @@ title = "Trove Package Index"
 
 # The homepage contents
 [extra]
-lead = '<b>TPI</b> is a package index for the DDS build system'
+lead = '<b>TPI</b> is a package index for the bpt build system'
 url = "/browse/"
 url_button = "Browse"
 repo_version = "GitHub v0.1.0"
 repo_license = "Open-source MIT License."
-repo_url = "https://github.com/oraqlle/trovepi.dev"
+repo_url = "https://github.com/trovepi/trove"
 
 # Menu items
 [[extra.menu.main]]
