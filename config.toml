@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://trovepi.dev"
-title = "TPI"
+title = "Trove"
 description = "The Trove Package Index"
 
 # The site theme to use.
@@ -113,6 +113,12 @@ weight = 10
 name = "Blog"
 section = "blog"
 url = "/blog/"
+weight = 20
+
+[[extra.menu.main]]
+name = "Packages"
+section = "packages"
+url = "/packages/"
 weight = 20
 
 [[extra.menu.social]]
