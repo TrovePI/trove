@@ -16,30 +16,30 @@ top = false
 
 ## Quick Start
 
-Quickly get setup with bpt and Trove. [Quick Start →](../quick-start/)
+Quickly get setup with bpt and Trove. [Quick Start →](../../quick-start/)
 
 ## bpt
 
-- Welcome to bpt, a new tool for a new decade. [About bpt →](../bpt-docs/)
-- How to install bpt. [Install bpt →](../bpt-docs/install-bpt.md)
-- Set up a new project using bpt. [Starting new project →](../bpt-docs/starting-project.md)
-- Adding packages to your bpt project. [Adding pacakges →](../bpt-docs/adding-packages-to-project.md)
-- Choosing libraries from a package. [Choosing package libraries →](../bpt-docs/package-libraries.md)
-- Using test dependencies. [Using test dependencies →](../bpt-docs/using-test-dependencies.md)
+- Welcome to bpt, a new tool for a new decade. [About bpt →](../../bpt-docs/)
+- How to install bpt. [Install bpt →](../../bpt-docs/install-bpt/)
+- Set up a new project using bpt. [Starting new project →](../../bpt-docs/starting-project/)
+- Adding packages to your bpt project. [Adding pacakges →](../../bpt-docs/adding-packages-to-project/)
+- Choosing libraries from a package. [Choosing package libraries →](../../bpt-docs/package-libraries/)
+- Using test dependencies. [Using test dependencies →](../../bpt-docs/using-test-dependencies/)
 
 ## Trove
 
-- Learn everything there is to know about using Trove! [About using Trove →](../trove-docs/)
-- Learn how to use Trove in you're build's package lookup. [Adding Trove to bpt's build](../trove-docs/adding-trove-to-build.md)
-- Searching Trove using bpt CLI. [Searching Trove (CLI) →](../trove-docs/searching-cli.md)
-- Searching Trove on trovepi.dev. [Searching Trove (Web) →](../trove-docs/searching-web.md)
-- Learn how to add your own packages to Trove! [Requesting package addition to Trove →](../trove-docs/adding-your-packages.md)
-- Learn to use Trove's public package template for you're own packages. [Using Trove's template repository →](../trove-docs/trove-template.md)
+- Learn everything there is to know about using Trove! [About using Trove →](../../trove-docs/)
+- Learn how to use Trove in you're build's package lookup. [Adding Trove to bpt's build](../../trove-docs/adding-trove-to-build/)
+- Searching Trove using bpt CLI. [Searching Trove (CLI) →](../../trove-docs/searching-cli/)
+- Searching Trove on trovepi.dev. [Searching Trove (Web) →](../../trove-docs/searching-web/)
+- Learn how to add your own packages to Trove! [Requesting package addition to Trove →](../../trove-docs/adding-your-packages/)
+- Learn to use Trove's public package template for you're own packages. [Using Trove's template repository →](../../trove-docs/trove-template/)
 
 ## Contributing and Code of Conduct
 
-- Find out how to contribute to Trove. [Contributing →](../contributing/how-to-contribute/)
-- Read Trove's Code of Conduct. [Code of Conduct →](../contributing/code-of-conduct.md)
+- Find out how to contribute to Trove. [Contributing →](../../contributing/how-to-contribute/)
+- Read Trove's Code of Conduct. [Code of Conduct →](../../contributing/code-of-conduct/)
 
 ## Help
 
@@ -47,4 +47,4 @@ Get help on Trove. [Help →](../../help/faq/)
 
 ## Miscellaneous
 
-- What is Trove, its aims and it's vision going forward. [Miscellaneous →](../misc/)
+- What is Trove, its aims and it's vision going forward. [Miscellaneous →](../../misc/)
