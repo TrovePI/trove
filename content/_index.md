@@ -15,7 +15,7 @@ repo_url = "https://github.com/trovepi/trove"
 [[extra.menu.main]]
 name = "Docs"
 section = "docs"
-url = "/docs/getting-started/introduction/"
+url = "/docs/welcome/welcome"
 weight = 10
 
 [[extra.menu.main]]
