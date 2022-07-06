@@ -28,7 +28,7 @@ weight = 20
 name = "Packages"
 section = "packages"
 url = "/packages/"
-weight = 20
+weight = 30
 
 [[extra.list]]
 title = "Security aware"
