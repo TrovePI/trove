@@ -14,6 +14,11 @@ toc = true
 top = false
 +++
 
-## Links
-
 - [bpt's docs →](https://bpt.pizza/docs/latest/index.html)
+- ['hello world!' from bpt →](https://bpt.pizza/docs/latest/tut/hello-world.html)
+- [Projects and Packages →](https://bpt.pizza/docs/latest/guide/projects.html)
+- [Building Applications →](https://bpt.pizza/docs/latest/guide/apps.html)
+- [Writing Tests →](https://bpt.pizza/docs/latest/guide/tests.html)
+- [Dependencies →](https://bpt.pizza/docs/latest/guide/deps.html)
+- [bpt's CLI →](https://bpt.pizza/docs/latest/guide/cli/index.html)
+- [Toolchains →](https://bpt.pizza/docs/latest/guide/toolchains.html)
