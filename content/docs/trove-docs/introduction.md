@@ -1,6 +1,6 @@
 +++
 title = "Introduction to Trove"
-description = "Welcome to bpt"
+description = "Welcome to Trove"
 date = 2022-07-05T08:00:00+00:00
 updated = 2022-07-05T08:00:00+00:00
 draft = false
@@ -13,3 +13,7 @@ lead = "Trove is a package index that can be used with the bpt build system. Whi
 toc = true
 top = false
 +++
+
+## Using trovepi.dev
+
+The website that Trove is hosted on aims to provide a freandly interface for viewing and seaching packages, learning how to use bpt and building your own packages to be published to Trove.
