@@ -9,7 +9,7 @@ sort_by = "weight"
 template = "docs/page.html"
 
 [extra]
-lead = 'Trove is a package index that can be used with the bpt build system. It aims to provide a place for new and exciting packages to be fast tracked to users.'
+lead = "Trove is a package index that can be used with the bpt build system. While bpt's core functionality is still being developed, Trove aims to fill the place of a extensiable and rapid growth for C++ packages and providing facilities so that new packages can be added with ease."
 toc = true
 top = false
 +++
