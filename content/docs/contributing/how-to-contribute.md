@@ -14,24 +14,23 @@ toc = true
 top = false
 +++
 
-👉 Make sure to read the [Code of Conduct](../code-of-conduct/).
+👉 Make sure to read the [Code of Conduct →](../code-of-conduct/).
 
 ## Contribute to Trove
 
-👉 The AdiDoks code lives in the [`Trove` repository](https://github.com/trovepi/trove)
+👉 Trove code lives on GitHub. [Trove repository →](https://github.com/trovepi/trove)
 
-- Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
-- Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)
+- Follow the [GitHub flow →](https://guides.github.com/introduction/flow/).
+- Follow the [Conventional Commits Specification →](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ### Create an issue
 
-- [Bug report](https://github.com/trovepi/trove/issues/new?template=bug-report---.md)
-- [Feature request](https://github.com/trovepi/trove/issues/new?template=feature-request---.md)
+- [Bug report →](https://github.com/trovepi/trove/issues/new?template=bug-report---.md)
+- [Feature request →](https://github.com/trovepi/trove/issues/new?template=feature-request---.md)
 
 ## Improve documentation
 
-👉 The documentation lives in [`./content/docs/`](https://github.com/trovepi/trove/tree/master/content/docs)
-of the [`adidoks` repository](https://github.com/trovepi/trove).
+👉 The documentation lives in in the `./content/docs/` directory of the Trove repository. [Documentation →](https://github.com/trovepi/trove/tree/master/content/docs)
 
-- Follow the [GitHub flow](https://guides.github.com/introduction/flow/).
-- Follow the [Conventional Commits Specification](https://www.conventionalcommits.org/en/v1.0.0/)
+- Follow the [GitHub flow →](https://guides.github.com/introduction/flow/).
+- Follow the [Conventional Commits Specification →](https://www.conventionalcommits.org/en/v1.0.0/)

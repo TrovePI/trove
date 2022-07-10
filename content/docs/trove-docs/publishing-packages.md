@@ -1,10 +1,10 @@
 +++
-title = "Using Trove with bpt"
-description = "How to use"
+title = "Publishing Packages"
+description = "Learn how to publish packages to Trove."
 date = 2022-07-03T08:00:00+00:00
 updated = 2022-07-31T08:00:00+00:00
 draft = false
-weight = 20
+weight = 30
 sort_by = "weight"
 template = "docs/page.html"
 

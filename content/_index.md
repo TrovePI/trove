@@ -1,11 +1,11 @@
 +++
-title = "Trove Package Index"
+title = "The Trove Package Index"
 
 
 # The homepage contents
 [extra]
-lead = '<b>TPI</b> is a package index for the bpt build system'
-url = "/browse/"
+lead = '<b>Trove</b> is a package index for the bpt build system.'
+url = "/packages/"
 url_button = "Browse"
 repo_version = "GitHub v0.1.0"
 repo_license = "Open-source MIT License."

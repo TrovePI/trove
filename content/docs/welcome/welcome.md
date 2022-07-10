@@ -16,11 +16,11 @@ top = false
 
 ## Quick Start
 
-Quickly get setup with bpt and Trove. [Quick Start →](../../quick-start/)
+Quickly get setup with bpt and Trove. [Quick Start →](../../quick-start/quick-start/)
 
 ## bpt
 
-- Welcome to bpt, a new tool for a new decade. [About bpt →](../../bpt-docs/)
+- Welcome to bpt, a new tool for a new decade. [Introduction to bpt →](../../bpt-docs/introduction-to-bpt/)
 - How to install bpt. [Install bpt →](../../bpt-docs/install-bpt/)
 - Set up a new project using bpt. [Starting new project →](../../bpt-docs/starting-project/)
 - Adding packages to your bpt project. [Adding pacakges →](../../bpt-docs/adding-packages-to-project/)
@@ -29,8 +29,8 @@ Quickly get setup with bpt and Trove. [Quick Start →](../../quick-start/)
 
 ## Trove
 
-- Learn everything there is to know about using Trove! [About using Trove →](../../trove-docs/)
-- Learn how to use Trove in you're build's package lookup. [Adding Trove to bpt's build](../../trove-docs/adding-trove-to-build/)
+- Learn everything there is to know about using Trove! [Introduction to Trove →](../../trove-docs/introduction/)
+- Learn how to use Trove in you're build's package lookup. [Adding Trove to bpt's build](../../trove-docs/using-trove/)
 - Searching Trove using bpt CLI. [Searching Trove (CLI) →](../../trove-docs/searching-cli/)
 - Searching Trove on trovepi.dev. [Searching Trove (Web) →](../../trove-docs/searching-web/)
 - Learn how to add your own packages to Trove! [Requesting package addition to Trove →](../../trove-docs/adding-your-packages/)
