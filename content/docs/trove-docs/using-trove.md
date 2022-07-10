@@ -60,4 +60,4 @@ bpt build -t c++17:gcc -NDR -r "https://trovepi.dev"
 
 ## Related docs
 
-- bpt's official docs on remote package repositories. [Remote Packages and Repositories →](https://bpt.pizza/docs/latest/guide/remote-pkgs.html)
+- bpt's official docs on remote package repos. [Remote Packages and Repositories →](https://bpt.pizza/docs/latest/guide/remote-pkgs.html)
