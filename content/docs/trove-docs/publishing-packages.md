@@ -1,8 +1,8 @@
 +++
 title = "Publishing Packages"
 description = "Learn how to publish packages to Trove."
-date = 2022-07-03T08:00:00+00:00
-updated = 2022-07-31T08:00:00+00:00
+date = 2022-07-10T08:00:00+00:00
+updated = 2022-07-11T08:00:00+00:00
 draft = false
 weight = 30
 sort_by = "weight"

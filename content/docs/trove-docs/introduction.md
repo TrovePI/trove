@@ -31,3 +31,4 @@ The [Blog](../../../blog/) section contains blog posts from me (oraqlle) regardi
 - If you want to find out how to use Trove in conjunction with bpt, head on to the next page. [Using Trove →](../../docs/trove-docs/using-trove/)
 - If you have a package you want published to Trove and make it available to the world learn the GitHub workflow for publishing a package. [Publish Your Packages →](../../trove-docs/publishing-packages/)
 - If you have found an error in the documentation or in Trove contributions a gladly accepted. Read the contributing guidelines for helping to improve Trove. [Contribute to Trove →](../../contributing/how-to-contribute/)
+- If you have any questions regarding Trove don't hesitate to ask on the Trove's GitHub discussion page. [Ask for help →](https://github.com/TrovePI/trove/discussions)

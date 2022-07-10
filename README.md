@@ -5,8 +5,8 @@
 
 A C++ package index for the bpt build system.
 
-Trove is a package index that I use to store packages I've created using the DDS build System. It's mostly for personal use but is a open source and freely accessible archive that allows anyone to quickly and easily add packages to their project. Most of the libraries I build are (will) be available there.
+Trove is a package index using the bpt build system and packaging infrustructure. You can learn how to use bpt, download packages or upload your own. Checkout the website for details.
 
-Have a look at the [Wiki](https://github.com/oraqlle/trove/wiki) for details.
+## License
 
-Package documentation comming soon.
+Trove is under the MIT License ([LICENSE](LICENSE) or [https://opensource.org/licenses/MIT]

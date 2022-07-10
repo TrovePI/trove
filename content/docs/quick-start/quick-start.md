@@ -66,7 +66,7 @@ When you find a package you want to use from Trove simply specify the package's 
 
 ## Building with Trove
 
-To build a bpt project that uses a package from Trove, you have to specify to bpt that you want to use Trove's package repository. This is down with the `--use-repo=""` flag with the `bpt build sub-command. This flag takes a string containing the URL to Trove's index.
+To build a bpt project that uses a package from Trove, you have to specify to bpt that you want to use Trove's package repository. This is down with the `--use-repo=""` or `-r ""` flags with the `bpt build sub-command. This flag takes a string containing the URL to Trove's index.
 
 ```sh
 bpt built -t <toolchain> --use-repo="https://trovepi.dev"
